@@ -1,0 +1,52 @@
+.body_background{
+    background-image: url("https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/05/blinds_basic.gif?ssl=1");
+     background-position: center;
+     background-size: cover;
+    
+}
+
+#header {
+
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+}
+
+#name_objects{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    color: whitesmoke;
+    
+}
+#camera  {
+    border-color: black;
+    border-radius: 1px;
+    background-color: darkslategrey;
+    border: 1px solid black;
+}
+
+#webcamview {
+    color: beige;
+}
+#object {
+    color: azure;
+}
+#accuracy {
+    color: blanchedalmond;
+}
+#result_object_name {
+    color: azure;
+}
+#result_object_accuracy {
+    color: blanchedalmond;
+}
+#Proof {
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+
+}
